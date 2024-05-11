@@ -1,0 +1,93 @@
+﻿//单多仓。本地接口。（需配置对应本地包）
+//https://521github.com/extdomains/raw.githubusercontent.com/md-yd/0/main/521/71.json
+{
+  "urls": [
+    //——————————————————————————————————————————————————————————————————
+    //高天流云本地包https://521github.com/gaotianliuyun/gao/archive/refs/heads/master.zip
+    //复制到浏览器打开，下载，解压到：根目录/00/gao-master/
+    //注意不是根目录/00/gao-master/gao-master/
+    {
+      "url": "",
+      "name": "✱高天流云  /00/gao-master/"
+    },
+    {
+      "url": "clan://localhost/00/gao-master/0821.json",
+      "name": "🌏高天流云 0821🆗"
+    },
+    {
+      "url": "clan://localhost/00/gao-master/0825.json",
+      "name": "🌏Panda Groove 0825"
+    },
+    {
+      "url": "clan://localhost/00/gao-master/0826.json",
+      "name": "🌏饭太硬♬　  0826"
+    },
+    {
+      "url": "clan://localhost/00/gao-master/0827.json",
+      "name": "🌏fongmi♬　  0827"
+    },
+
+    {
+      "url": "clan://localhost/00/gao-master/js.json",
+      "name": "🌏道长drpy♬　  JS"
+    },
+    {
+      "url": "clan://localhost/00/gao-master/XYQ.json",
+      "name": "🌏香雅情♬　　 XYQ"
+    },
+
+
+    //——————————————————————————————————————————————————————————————————
+    //张弘本地包https://521github.com/zhanghong1983/tvboxzy/archive/refs/heads/main.zip
+    //复制到浏览器打开，下载，解压到：根目录/00/tvboxzy-main/
+    {
+      "url": "",
+      "name": "✱张弘  /00/tvboxzy-main/"
+    },
+
+    {
+      "url": "clan://localhost/00/tvboxzy-main/自用.json",
+      "name": "🌏张弘/自用♬"
+    },
+    {
+      "url": "clan://localhost/00/tvboxzy-main/JS/js.json",
+      "name": "🌏js不勤更"
+    },
+    {
+      "url": "clan://localhost/00/tvboxzy-main/XBPQ.json",
+      "name": "🌏XBPQ不勤更"
+    },
+
+
+    //——————————————————————————————————————————————————————————————————
+    //PizazzGY本地包https://521github.com/PizazzGY/TVBox/archive/refs/heads/main.zip
+    //复制到浏览器打开，下载，解压到：根目录/00/TVBox-main/
+    {
+      "url": "",
+      "name": "✱PizazzGY  /00/TVBox-main/"
+    },
+    {
+      "url": "clan://localhost/00/TVBox-main/api.json",
+      "name": "🌏api🆗"
+    },
+
+
+
+    //——————————————————————————————————————————————————————————————————
+    //以下为MD本地包。可通过阅读app的md订阅里获取，解压到：根目录/00/
+    {
+      "url": "",
+      "name": "✱md  /00/"
+    },
+
+    {
+      "url": "clan://localhost/00/YYY/box-main/m.json",
+      "name": "🌏Liucn/m"
+    },
+    {
+      "url": "clan://localhost/00/YYY/2hacc/tvbox.json",
+      "name": "🌏二哈/tvbox不勤更"
+    }
+//,{"url": "clan://localhost/00/YYY/json/config.json","name": "🌏FongMi/config"}
+  ]
+}

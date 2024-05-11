@@ -1,0 +1,115 @@
+﻿//接口或不定期更新变动。使用者可不定期在多仓版软件的设置里重置App后再重新加载一次总接口。
+//
+//多仓在线总接口http://gg.gg/00200
+//真实地址https://521github.com/extdomains/raw.githubusercontent.com/md-yd/0/main/521/0
+//
+//本地包下载地址及说明。
+{
+  "urls": [
+
+    {
+      "url": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/0/main/521/0",
+      "name": "在线接口http://gg.gg/00200"
+    },
+    {
+      "url": "clan://localhost/0/1",
+      "name": "本地接口："
+    },
+    {
+      "url": "clan://localhost/0/1",
+      "name": "clan://localhost/0/1"
+    },
+    {
+      "url": "",
+      "name": "以下本地包 请自行更新"
+    },
+    {
+      "url": "",
+      "name": "————————————"
+    },
+    {
+      "url": "https://codeload.github.com/gaotianliuyun/gao/zip/refs/heads/master",
+      "name": "高天流云本地包"
+    },
+    {
+      "url": "http://gg.gg/GTLY9",
+      "name": "gg.gg/liuyun浏览器下载解压"
+    },
+    {
+      "url": "",
+      "name": "根目录/00/gao-master/"
+    },
+    {
+      "url": "",
+      "name": "————————————"
+    },
+    {
+      "url": "https://agit.ai/kvymin/TV/archive/master.zip",
+      "name": "kvymin本地包gg.gg/kvymin"
+    },
+    {
+      "url": "",
+      "name": "根目录/00/tv/"
+    },
+    {
+      "url": "",
+      "name": "————————————"
+    },
+    {
+      "url": "https://521github.com/zhanghong1983/tvboxzy/archive/refs/heads/main.zip",
+      "name": "张弘本地包gg.gg/zhangh"
+    },
+    {
+      "url": "",
+      "name": "根目录/00/tvboxzy-main/"
+    },
+
+
+    {
+      "url": "",
+      "name": "————————————"
+    },
+    {
+      "url": "https://521github.com/zhanghong1983/tvboxzy/archive/refs/heads/main.zip",
+      "name": "PizazzGY本地包gg.gg/mmxmm"
+    },
+    {
+      "url": "",
+      "name": "根目录/00/TVBox-main/"
+    },
+
+
+    {
+      "url": "",
+      "name": "————————————"
+    },
+    {
+      "url": "",
+      "name": "云星/无忧、奇奇的本地包"
+    },
+    {
+      "url": "",
+      "name": "按包内说明解压、配置。"
+    },
+    {
+      "url": "",
+      "name": "————————————"
+    },
+    {
+      "url": "",
+      "name": "本地包更新完成后，"
+    },
+    {
+      "url": "",
+      "name": "最好重置app重新加接口"
+    },
+    {
+      "url": "",
+      "name": "————————————"
+    },
+    {
+      "url": "",
+      "name": "QQ小说交流裙892966579"
+    }
+  ]
+}

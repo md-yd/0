@@ -1,0 +1,128 @@
+//单仓。在线接口。
+//https://521github.com/extdomains/raw.githubusercontent.com/md-yd/0/main/521/702.json
+{
+    "urls": [
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/jie20091116/cat/main/TVBOX/box.json",
+            "name": "☀️jie20091116/box"
+        },
+
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/breadmyth/tv/main/github1.json",
+            "name": "☀️breadmyth/github1"
+        },
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/breadmyth/tv/main/github2.json",
+            "name": "☀️breadmyth/github2 old"
+        },
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/breadmyth/tv/main/github3.json",
+            "name": "☀️breadmyth/github3"
+        },
+
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/am.json",
+            "name": "☀️Amanchi1208/am☀️"
+        },
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/aw.json",
+            "name": "☀️Amanchi1208/aw"
+        },
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/Amanchi1208/amanchi1208.github.io/main/ts.json",
+            "name": "☀️Amanchi1208/ts"
+        },
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/zhixc/CatVodTVSpider/main/tvbox_config.json",
+            "name": "☀️zhixc/tvbox_config"
+        },
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/Karlin97/Personal/main/Mine.json",
+            "name": "☀️Karlin97/Mine"
+        },
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/Karlin97/Personal/main/Mine2.json",
+            "name": "☀️Karlin97/Mine2"
+        },
+        //——————————————————————————————————————————————————————————————————
+
+        {
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝.json",
+            "name": "jihulab/月光宝🆕"
+        },
+        {
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/ys.json",
+            "name": "jihulab/月光宝盒/ys🆕"
+        },
+        {
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/ygbh.json",
+            "name": "jihulab/月光宝盒/ygbh"
+        },
+
+        //——————————————————————————————————————————————————————————————————
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/py.json",
+            "name": "霜辉月明/py"
+        },
+        {
+            "url": "http://rihou.cc:88/荷城茶秀",
+            "name": "荷城茶秀<rules>"
+        },
+        {
+            "url": "http://rihou.cc:99/荷城茶秀",
+            "name": "荷城茶秀"
+        },
+        //——————————————————————————————————————————————————————————————————
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/13998394872/Renly/main/TVBox/0.json",
+            "name": "Renly/0"
+        },
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/13998394872/Renly/main/TVBox/Tang.json",
+            "name": "Renly/Tang"
+        },
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/13998394872/Renly/main/TVBox/TangS.json",
+            "name": "Renly/TangS"
+        },
+        //——————————————————————————————————————————————————————————————————
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/qq925067429/JS4512/main/js.json",
+            "name": "JS4512/js"
+        },
+        {
+            "url": "http://52bsj.vip:98/0805",
+            "name": "吾爱有三"
+        },
+        {
+            "url": "https://download.kstore.space/download/2863/01.txt",
+            "name": "潇洒"
+        },
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+            "name": "佰欣园"
+        },
+        {
+            "url": "https://notabug.org/imbig66/tv-spider-man/raw/master/配置/0801.json",
+            "name": "胖虎"
+        },
+        {
+            "url": "https://521github.com/extdomains/raw.githubusercontent.com/UndCover/PyramidStore/main/py.json",
+            "name": "UndCover/py"
+        },
+        {
+            "url": "https://pan.tenire.com/down.php/2664dabf44e1b55919f481903a178cba.txt",
+            "name": "木极"
+        },
+        {
+            "url": "https://kebedd69.github.io/TVbox-interface/py甜蜜.json",
+            "name": "甜蜜/py"
+        },
+        {
+            "url": "https://kebedd69.github.io/TVbox-interface/甜蜜.json",
+            "name": "甜蜜"
+        }
+        //——————————————————————————————————————————————————————————————————
+    ]
+}
+}

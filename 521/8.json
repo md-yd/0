@@ -1,0 +1,111 @@
+﻿//✘测试线路！慎用！
+{
+  "urls": [
+    {
+      "url": "",
+      "name": "—— ✘测试！慎用！ ——"
+    },
+
+    {
+      "url": "clan://localhost/00/tvboxzy-main/SEX.json",
+      "name": "🌏zhang/SIX ✘测试！"
+    },
+    {
+      "url": "clan://localhost/00/YYY/2hacc/h/h.json",
+      "name": "🌏2hacc/h ✘测试！慎用！"
+    },
+    {
+      "url": "clan://localhost/00/YYY/json/adult.json",
+      "name": "🌏FongMi/adult ✘测试62"
+    },
+    {
+      "url": "clan://localhost/00/gao-master/9918.json",
+      "name": "🌏gao/9918 ✘测试62"
+    },
+    {
+      "url": "clan://localhost/00/tv/adult.json",
+      "name": "🌏kvymin/adult ✘测试62"
+    },
+
+
+    //————————————————————————————————————————————————————————————
+    {
+      "url": "",
+      "name": "———— 在线 ✘测试 ————"
+    },
+    {
+      "url": "https://521github.com/zhanghong1983/tvboxzy/raw/main/SEX.json",
+      "name": "☀️zhang/SIX ✘测试！"
+    },
+    {
+      "url": "https://521github.com/extdomains/raw.githubusercontent.com/2hacc/TVBox/main/h/h.json",
+      "name": "☀️2hacc/h ✘测试！"
+    },
+    {
+      "url": "https://521github.com/extdomains/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json",
+      "name": "☀️FongMi/adult ✘测试62"
+    },
+    {
+      "url": "https://521github.com/extdomains/raw.githubusercontent.com/gaotianliuyun/gao/master/9918.json",
+      "name": "☀️gao/9918 ✘测试62"
+    },
+    {
+      "url": "https://agit.ai/kvymin/TV/raw/branch/master/adult.json",
+      "name": "☀️kvymin/adult ✘测试62"
+    },
+
+
+    {
+      "url": "https://521github.com/extdomains/raw.githubusercontent.com/jie20091116/cat/main/TVBOX/se.json",
+      "name": "☀️jie20091116/se ✘测试！"
+    },
+
+//————————————————————————————————————————————————————————————
+
+
+
+
+    {
+      "url": "https://521github.com/extdomains/raw.githubusercontent.com/breadmyth/tv/main/18.json",
+      "name": "☀️breadmyth/18 ✘测试！"
+    },
+    {
+      "url": "https://jsd.cdn.zzko.cn/gh/breadmyth/tv@main/18.json",
+      "name": "☀️breadmyth/18 ✘测试bak"
+    },
+    {
+      "url": "https://521github.com/extdomains/raw.githubusercontent.com/xiaoxuwenzi/xiaoxuwenzi.github.io/main/18.json",
+      "name": "☀️xiaoxuwenzi/18 ✘测试！"
+    },
+    {
+      "url": "https://521github.com/extdomains/raw.githubusercontent.com/xibao999/x/master/dxwoai18.json",
+      "name": "☀️xibao999/dxwoai18✘测试"
+    },
+    {
+      "url": "https://521github.com/extdomains/raw.githubusercontent.com/xibao999/x/master/adult1.json",
+      "name": "☀️xibao999 ✘测试62"
+    },
+
+
+
+    {
+      "url": "http://js.134584.xyz/json/pp87.json",
+      "name": "☀️pp87"
+    },
+    {
+      "url": "https://521github.com/extdomains/raw.githubusercontent.com/zqk219/baip/main/tv.json",
+      "name": "☀️zqk219更✘测试"
+    },
+
+
+
+    {
+      "url": "https://521github.com/extdomains/raw.githubusercontent.com/jie20091116/cat/main/TVBOX/box0916.txt",
+      "name": "x jie2009/box0916"
+    },
+    {
+      "url": "https://521github.com/extdomains/raw.githubusercontent.com/jie20091116/cat/main/TVBOX/box.json",
+      "name": "x jie2009/box"
+    }
+  ]
+}

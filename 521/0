@@ -1,0 +1,39 @@
+﻿//接口或不定期更新变动。使用者可不定期在多仓版软件的设置里重置App后再重新加载一次总接口。
+//
+//多仓在线总接口http://gg.gg/00200
+//真实地址https://521github.com/extdomains/raw.githubusercontent.com/md-yd/0/main/521/0
+//内容取自网络，仅作学习参考，请在24小时内删除。
+//小说交流裙：892966579。裙作业里的订阅有相关资源。仅供萌新参考，非精整合，大佬请无视。
+{
+  "storeHouse": [
+    {
+      "sourceName": "🌏本地[请自更本地包]",
+      "sourceUrl": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/0/main/521/71.json"
+    },
+
+    {
+      "sourceName": "🌏测试 ✘慎用！☀️",
+      "sourceUrl": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/0/main/521/8.json"
+    },
+    {
+      "sourceName": "☀️ 在线 [流云++] ☀️",
+      "sourceUrl": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/0/main/521/701.json"
+    },
+    {
+      "sourceName": "☀️ 在线 [其它++] ☀️",
+      "sourceUrl": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/0/main/521/702.json"
+    },
+    {
+      "sourceName": "🌏本地配置说明🌏",
+      "sourceUrl": "https://521github.com/extdomains/raw.githubusercontent.com/md-yd/0/main/521/readme.json"
+    },
+
+
+    {
+      "sourceName": "🌏PizazzGY🌏",
+      "sourceUrl": "https://521github.com/extdomains/raw.githubusercontent.com/PizazzGY/TVBox_warehouse/main/warehouse.txt"
+    }
+
+
+  ]
+}
